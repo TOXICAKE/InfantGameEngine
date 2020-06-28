@@ -6,14 +6,13 @@ InfantGameEngine[t-3]文件夹里是已经打包好的库。你只需要把下�
 
 基本功能的开发思路和引擎的简单用法你可以在我的博客上找到。
 
->>https://cdn.n0p3.top/2020/04/05/InfantGameEngine 开发思路
-欢迎你！
+>>https://cdn.n0p3.cn/2020/04/05/InfantGameEngine 这里是开发思路,欢迎访问！
 Ps:它的代码很简单，我以它作为我使用Git的开始，
 如果你觉得有点意思，就给颗星吧~ XD
        				
 
 ```c++
-			N0P3
-			2020大一
+			            N0P3
+			            2020大一
 ```
 
